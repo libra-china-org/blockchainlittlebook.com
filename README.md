@@ -73,7 +73,7 @@ Libra中文社区（编辑）
 
 在Libra中文社区，上百名有着开发经验的区块链从业者、上千名区块链小白聚集在一起，每天对区块链世界发生的进展和动态发表着观点，欢迎你的加入！
 
-![](/Users/marvin/Documents/GitHub/blockchainlittlebook.com/images/getqrcode.jpeg)
+![](images/getqrcode.jpeg)
 
 
 
@@ -291,7 +291,7 @@ dPoS（Delegated Proof of Stake）是 PoS（Proof of Stake）的进一步改良�
 
 **Phala Network通过使用 TEE（Trusted Execution Environment，可信执行环境）实现图灵完备的机密智能合约平台，可以为联盟链、公链提供完备的可信计算基础设施和可信算力，既保证智能合约可靠执行、又不会在泄漏任何未授权的数据。**
 
-![](/Users/marvin/Documents/GitHub/blockchainlittlebook.com/images/1.png)
+![](images/1.png)
 
 TEE（Trusted Execution Environment，可信执行环境）的作用是，向公众证明网络中某个节点（或称服务器） “正在运行的代码” 的确是 “它声称正在运行的代码”。简单来说，你可以把具备可信执行环境的服务器理解为一个透明盒子，外部可以 “看到” 它内部正在运行的代码 —— 换言之，没有任何人能够在不被察觉的情况下改变这个透明盒子里正在运行的代码。
 

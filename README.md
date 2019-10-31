@@ -204,25 +204,25 @@ Libra中文社区（编辑）
 
 #### 靠谱的交易所
 
-币安：www.binance.top
-火币：www.huobi.br.com
-币行：www.okb.com
-比特儿：www.gateio.io
+* 币安：www.binance.top
+* 火币：www.huobi.br.com
+* 币行：www.okb.com
+* 比特儿：www.gateio.io
 
 #### 靠谱的数字货币钱包
 
-Imtoken：https://token.im/
-TokenPocket：https://www.tokenpocket.pro/
-Cobo：https://cobo.com/
+* Imtoken：https://token.im/
+* TokenPocket：https://www.tokenpocket.pro/
+* Cobo：https://cobo.com/
 
 #### 靠谱的信息来源
 
-TokenInsight：https://tokeninsight.com/
-币快报：https://www.beekuaibao.com/
-CoinMarketCap：https://coinmarketcap.com/
-DappReview：https://dapp.review/
-链闻：https://www.chainnews.com/
-Block123：https://www.block123.com/
+* TokenInsight：https://tokeninsight.com/
+* 币快报：https://www.beekuaibao.com/
+* CoinMarketCap：https://coinmarketcap.com/
+* DappReview：https://dapp.review/
+* 链闻：https://www.chainnews.com/
+* Block123：https://www.block123.com/
 
 再次需要提醒风险：
 
